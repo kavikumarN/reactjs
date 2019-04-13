@@ -7,3 +7,5 @@ https://github.com/SUDOARSDEV/React/tree/master/src
 ** https://codeburst.io/installing-reactjs-and-creating-your-first-application-d437706498ed
 
 https://github.com/MarkFChavez/bitcoin-price-index
+
+https://medium.com/front-end-developers/react-redux-tutorial-d1f6c6652759
