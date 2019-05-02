@@ -1,0 +1,18 @@
+npm init -y
+
+npm install dotenv body-parser express web-push -S
+
+./node_modules/.bin/web-push generate-vapid-keys
+
+=======================================
+
+Public Key:
+BNHNpO545Qr5w2gT58mmEU69C6ntSvULtOwP-XO8TtEEysp2Wr8PRVmhzfBJ4hf2rRV4bHY0h_K6BdMDKBRvvUI
+
+Private Key:
+87jQeo_fgbviXwUjbWeB3dDuzE0-uEICVz0kgDSX0Yg
+
+=======================================
+
+
+
